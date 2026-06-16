@@ -61,7 +61,7 @@ export default function ComingSoonPage() {
         <div className="absolute inset-0 bg-black/70" />
 
         {/* LOGO */}
-        <div className="relative md:absolute top-0 left-0 z-20 p-5 md:top-5 md:left-10 md:p-0 flex md:block justify-start md:justify-start">
+        <div className="relative md:absolute top-0 left-0 z-20 p-5 md:top-5 md:left-40 md:p-0 flex md:block justify-start md:justify-start">
           <img
             src="/images/tsl.jpg"
             alt="Tuffsteel Logo"
@@ -73,7 +73,7 @@ export default function ComingSoonPage() {
         <div className="relative z-20 flex flex-col md:flex-row flex-1 mt-6">
 
           {/* LEFT */}
-          <div className="flex-1 flex flex-col justify-start md:items-end p-6 md:p-12 pt-6 md:pt-12 space-y-6">
+          <div className="flex-1 flex flex-col justify-start md:items-end p-6 md:p-12 pt-6 md:pt-30 space-y-6">
 
             <div className="max-w-xl space-y-5 md:space-y-6 md:text-left">
 
