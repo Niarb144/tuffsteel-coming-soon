@@ -100,7 +100,7 @@ export default function ComingSoonPage() {
                   href="tel:0788887788"
                   className="block text-blue-400 hover:text-blue-300 text-base md:text-lg font-semibold transition"
                 >
-                  0788 887788
+                  020 515 2000
                 </a>
 
               </div>
